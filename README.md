@@ -57,7 +57,7 @@ Full-featured social media platform API with Instagram/Twitter-like functionalit
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/CerenTurker/social-media-api.git
 cd social-media-api
 ```
 
